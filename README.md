@@ -16,4 +16,5 @@
 
 - Motoatt
 - Relogioatt
+- Cronograma
 - Celular
