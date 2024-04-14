@@ -2,6 +2,7 @@
 2. Classes: 732 l main: 138 l
 3. Classes: 742 l main: 137 l
 4. Classes: 997 l main: 143 l
+5. Classes: 1119 l main: 148 l
 
 difs:
 
@@ -19,3 +20,9 @@ l add: 9 l
 Classes: +255 l
 main: +6 l
 l add: 261
+
+4 p 5:
+
+Classes: +122 l
+main: +5 l
+l add: 127
