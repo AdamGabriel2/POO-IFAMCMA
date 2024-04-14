@@ -1,4 +1,4 @@
-from Classes import Cliente, Ave, Caneca, Copo, Barraquinha, Moto, Motoatt, Relogio, Relogioatt, Celular
+from Classes import Cliente, Ave, Caneca, Copo, Barraquinha, Moto, Motoatt, Relogio, Relogioatt, Cronograma, Celular
 
 def verificar_metodo():
     tabela()
@@ -117,6 +117,10 @@ def verificar_metodo():
             r.all_f()
 
         case "10":
+            c=Cronograma()
+            c.opcs()
+
+        case "11":
             c1=Celular()
             c1.especificacoes()
 
@@ -136,8 +140,8 @@ def tabela():
     print("|7. Motoatt               |")
     print("|8. Relogio               |")
     print("|9. Relogioatt            |")
-    print("|10. Celular              |")
+    print("|10. Cronograma           |")
+    print("|11. Celular              |")
     print("|=========================|")
 
 verificar_metodo()
-
