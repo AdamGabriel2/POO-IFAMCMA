@@ -18,3 +18,12 @@
 - Relogioatt
 - Cronograma
 - Celular
+- Cachorro
+- Calendario
+- Loja
+- Avião
+- Carro
+
+```
+
+```
