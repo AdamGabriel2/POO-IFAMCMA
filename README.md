@@ -3,237 +3,294 @@ Repositório onde vão estar todos os programas e atividades da disciplina de PO
 
 ## Estrutura de pastas e arquivos:
 ```
-├── 1/
-│   ├── All/
-│   │   ├── 1/
+./
+├── 1
+│   ├── All
+│   │   ├── 1
 │   │   │   ├── Classes.py
 │   │   │   └── main.py
-│   │   ├── 2/
+│   │   ├── 2
 │   │   │   ├── Classes.py
 │   │   │   └── main.py
 │   │   └── atts.txt
-│   └── Classes/
-│       ├── Animais/
-│       │   ├── Ave/
+│   └── Classes
+│       ├── Animais
+│       │   ├── Ave
 │       │   │   ├── Ave.py
 │       │   │   └── main.py
-│       │   └── Cachorro/
+│       │   └── Cachorro
 │       │       ├── Cachorro.py
 │       │       └── main.py
-│       ├── Datas_Gerencimento/
-│       │   ├── Calendario/
+│       ├── Datas_Gerencimento
+│       │   ├── Calendario
 │       │   │   ├── Calendario.py
 │       │   │   ├── CalendarioXML.py
 │       │   │   └── main.py
-│       │   └── Cronograma/
-│       │       ├── 1/
+│       │   └── Cronograma
+│       │       ├── 1
 │       │       │   ├── Cronograma.py
 │       │       │   └── main.py
-│       │       └── 2/
+│       │       └── 2
 │       │           ├── Cronograma.py
 │       │           └── main.py
-│       ├── Estabelecimentos/
-│       │   ├── BancoTeste/
+│       ├── Estabelecimentos
+│       │   ├── BancoTeste
 │       │   │   ├── Cliente.py
 │       │   │   └── main.py
-│       │   ├── Barraquinha/
+│       │   ├── Barraquinha
 │       │   │   ├── Barraquinha.py
 │       │   │   ├── Barraquinha.uml
 │       │   │   └── main.py
-│       │   └── Loja/
+│       │   └── Loja
 │       │       ├── Loja.py
 │       │       └── main.py
-│       ├── Objetos/
-│       │   ├── Caneca_Copo/
+│       ├── Objetos
+│       │   ├── Caneca_Copo
 │       │   │   ├── Caneca.py
 │       │   │   ├── Copo.py
 │       │   │   └── main.py
-│       │   ├── Celular/
-│       │   │   ├── 1/
+│       │   ├── Celular
+│       │   │   ├── 1
 │       │   │   │   ├── Celular.py
 │       │   │   │   └── main.py
-│       │   │   ├── 2/
+│       │   │   ├── 2
 │       │   │   │   ├── CelularAntigo.txt
 │       │   │   │   ├── Celular.py
 │       │   │   │   ├── main.py
 │       │   │   │   ├── Teste1_Celular2.txt
 │       │   │   │   └── Teste2_Celular2.txt
-│       │   │   ├── 3/
+│       │   │   ├── 3
 │       │   │   │   ├── Celular.py
 │       │   │   │   ├── dic.txt
 │       │   │   │   ├── main.py
 │       │   │   │   └── Teste1_Celular3.txt
-│       │   │   ├── 4/
+│       │   │   ├── 4
 │       │   │   │   ├── Celular.py
 │       │   │   │   └── main.py
-│       │   │   └── 5/
+│       │   │   └── 5
 │       │   │       ├── celulares.json
 │       │   │       ├── Celular.py
 │       │   │       └── main.py
-│       │   ├── Relogio/
+│       │   ├── Relogio
 │       │   │   ├── main.py
 │       │   │   ├── Relogio.py
 │       │   │   └── teste.py
-│       │   └── Relogioatt/
+│       │   └── Relogioatt
 │       │       ├── main.py
 │       │       └── Relogio.py
-│       └── Veiculos/
-│           ├── Aviao/
+│       └── Veiculos
+│           ├── Aviao
 │           │   ├── Aviao.py
 │           │   └── main.py
-│           ├── Carro/
+│           ├── Carro
 │           │   ├── Carro.py
 │           │   └── main.py
-│           ├── Moto/
+│           ├── Moto
 │           │   ├── main.py
 │           │   └── Moto.py
-│           └── Motoatt/
+│           └── Motoatt
 │               ├── main.py
 │               └── Moto.py
-├── 2/
-│   ├── All/
-│   │   ├── All.py
-│   │   ├── atts.txt
-│   │   ├── Classes.py
-│   │   └── main.py
-│   ├── Exemplos/
-│   │   ├── 1/
+├── 2
+│   ├── All
+│   │   ├── 1
+│   │   │   ├── All.py
+│   │   │   ├── atts.txt
+│   │   │   ├── Classes.py
 │   │   │   └── main.py
-│   │   ├── 2/
+│   │   └── 2
+│   │       ├── All.py
+│   │       ├── atts.txt
+│   │       ├── Classes.py
+│   │       └── main.py
+│   ├── Exemplos
+│   │   ├── 1
 │   │   │   └── main.py
-│   │   ├── 3/
+│   │   ├── 2
 │   │   │   └── main.py
-│   │   └── 4/
+│   │   ├── 3
+│   │   │   └── main.py
+│   │   └── 4
 │   │       ├── Animal.py
 │   │       ├── Cachorro.py
 │   │       ├── Gato.py
 │   │       └── main.py
-│   ├── Exercicios/
-│   │   ├── 1/
-│   │   │   ├── Ingresso.py
-│   │   │   ├── main.py
-│   │   │   └── VIP.py
-│   │   ├── 2/
-│   │   │   ├── Forma.py
-│   │   │   ├── main.py
-│   │   │   ├── Retangulo.py
-│   │   │   └── Triangulo.py
-│   │   ├── 3/
-│   │   │   ├── Atleta.py
-│   │   │   ├── Ciclista.py
-│   │   │   ├── Corredor.py
-│   │   │   ├── main.py
-│   │   │   ├── Nadador.py
-│   │   │   └── TriAtleta.py
-│   │   ├── 4/
-│   │   │   ├── ContaCorrente.py
-│   │   │   ├── ContaImposto.py
-│   │   │   ├── main.py
-│   │   │   └── Poupanca.py
-│   │   ├── 5/
-│   │   │   ├── Boleto.py
-│   │   │   ├── CartaodeCredito.py
-│   │   │   ├── CartaodeDebito.py
-│   │   │   ├── main.py
-│   │   │   ├── Menu.py
-│   │   │   ├── Pagamento.py
-│   │   │   └── Pix.py
-│   │   ├── All/
-│   │   │   ├── Classes.py
-│   │   │   └── main.py
-│   │   └── Outros/
-│   │       └── ex1.py
-│   └── site.txt
-├── 3/
-│   ├── 1/
+│   └── Exercicios
+│       ├── 1
+│       │   ├── Ingresso.py
+│       │   ├── main.py
+│       │   └── VIP.py
+│       ├── 2
+│       │   ├── Forma.py
+│       │   ├── main.py
+│       │   ├── Retangulo.py
+│       │   └── Triangulo.py
+│       ├── 3
+│       │   ├── Atleta.py
+│       │   ├── Ciclista.py
+│       │   ├── Corredor.py
+│       │   ├── main.py
+│       │   ├── Nadador.py
+│       │   └── TriAtleta.py
+│       ├── 4
+│       │   ├── ContaCorrente.py
+│       │   ├── ContaImposto.py
+│       │   ├── main.py
+│       │   └── Poupanca.py
+│       ├── 5
+│       │   ├── Boleto.py
+│       │   ├── CartaodeCredito.py
+│       │   ├── CartaodeDebito.py
+│       │   ├── main.py
+│       │   ├── Menu.py
+│       │   ├── Pagamento.py
+│       │   └── Pix.py
+│       ├── All
+│       │   ├── Classes.py
+│       │   └── main.py
+│       └── Outros
+│           └── ex1.py
+├── 3
+│   ├── 1
 │   │   ├── Divisao.py
-│   │   ├── Interface/
+│   │   ├── Interface
 │   │   │   └── OperacaoMatematica.py
 │   │   ├── main.py
 │   │   ├── Menu.py
 │   │   ├── Multiplicacao.py
 │   │   ├── Soma.py
 │   │   └── Subtracao.py
-│   ├── 2/
+│   ├── 2
 │   │   ├── ClienteFidelizacao.py
 │   │   ├── Cliente.py
 │   │   ├── InfoClientePessoaFisica.py
 │   │   ├── InfoClientePessoaJuridica.py
-│   │   ├── Interface/
+│   │   ├── Interface
 │   │   │   └── InfoCliente.py
 │   │   └── main.py
-│   └── All/
+│   └── All
 │       ├── All.py
 │       ├── atts.txt
 │       ├── Classes.py
 │       └── main.py
-└── 4/
-    ├── 1/
-    │   ├── Farol.py
-    │   ├── main.py
-    │   └── Moto.py
-    ├── 2/
-    │   ├── ItemPedido.py
-    │   ├── main.py
-    │   ├── Pedido.py
-    │   └── Produto.py
-    ├── 3/
-    │   ├── 1/
-    │   │   ├── DVDMIDIA.py
-    │   │   ├── DVDPLAYER.py
-    │   │   └── main.py
-    │   ├── 2/
-    │   │   ├── Engenheiro.py
-    │   │   ├── main.py
-    │   │   ├── Musico.py
-    │   │   └── Pessoa.py
-    │   ├── 3/
-    │   │   ├── Baterista.py
-    │   │   ├── main.py
-    │   │   ├── Musico.py
-    │   │   ├── Orquestra.py
-    │   │   └── Saxofonista.py
-    │   ├── 4/
-    │   │   ├── Baterista.py
-    │   │   ├── main.py
-    │   │   ├── Musico.py
-    │   │   ├── Orquestra.py
-    │   │   └── Saxofonista.py
-    │   ├── 5/
-    │   │   ├── Aluno.py
-    │   │   ├── Curso.py
-    │   │   └── main.py
-    │   ├── 6/
-    │   │   ├── Casa.py
-    │   │   ├── main.py
-    │   │   └── TabuleiroDeXadrez.py
-    │   ├── 7/
-    │   │   ├── C1.py
-    │   │   ├── C2.py
-    │   │   ├── main.py
-    │   │   └── PropriedadesDaRelacao.py
-    │   └── 8/
-    │       ├── Course.py
-    │       ├── Department.py
-    │       ├── Instructor.py
-    │       ├── main.py
-    │       ├── School.py
-    │       └── Student.py
-    ├── 4/
-    │   ├── Carro.py
-    │   └── main.py
-    ├── 5/
-    │   ├── Astromech.py
-    │   ├── Conexao.py
-    │   ├── main.py
-    │   ├── Mestre.py
-    │   └── Sensor.py
-    └── All/
+├── 4
+│   ├── 1
+│   │   ├── Farol.py
+│   │   ├── main.py
+│   │   └── Moto.py
+│   ├── 10
+│   │   ├── all.py
+│   │   ├── ex1.py
+│   │   ├── ex2.py
+│   │   ├── ex3.py
+│   │   ├── ex4.py
+│   │   ├── main1.py
+│   │   └── main2.py
+│   ├── 2
+│   │   ├── ItemPedido.py
+│   │   ├── main.py
+│   │   ├── Pedido.py
+│   │   └── Produto.py
+│   ├── 3
+│   │   ├── 1
+│   │   │   ├── DVDMIDIA.py
+│   │   │   ├── DVDPLAYER.py
+│   │   │   └── main.py
+│   │   ├── 2
+│   │   │   ├── Engenheiro.py
+│   │   │   ├── main.py
+│   │   │   ├── Musico.py
+│   │   │   └── Pessoa.py
+│   │   ├── 3
+│   │   │   ├── Baterista.py
+│   │   │   ├── main.py
+│   │   │   ├── Musico.py
+│   │   │   ├── Orquestra.py
+│   │   │   └── Saxofonista.py
+│   │   ├── 4
+│   │   │   ├── Baterista.py
+│   │   │   ├── main.py
+│   │   │   ├── Musico.py
+│   │   │   ├── Orquestra.py
+│   │   │   └── Saxofonista.py
+│   │   ├── 5
+│   │   │   ├── Aluno.py
+│   │   │   ├── Curso.py
+│   │   │   └── main.py
+│   │   ├── 6
+│   │   │   ├── Casa.py
+│   │   │   ├── main.py
+│   │   │   └── TabuleiroDeXadrez.py
+│   │   ├── 7
+│   │   │   ├── C1.py
+│   │   │   ├── C2.py
+│   │   │   ├── main.py
+│   │   │   └── PropriedadesDaRelacao.py
+│   │   └── 8
+│   │       ├── Course.py
+│   │       ├── Department.py
+│   │       ├── Instructor.py
+│   │       ├── main.py
+│   │       ├── School.py
+│   │       └── Student.py
+│   ├── 4
+│   │   ├── Carro.py
+│   │   └── main.py
+│   ├── 5
+│   │   ├── all.py
+│   │   ├── Astromech.py
+│   │   ├── Conexao.py
+│   │   ├── main.py
+│   │   ├── Mestre.py
+│   │   └── Sensor.py
+│   ├── 6
+│   │   ├── all.py
+│   │   ├── IniciadosJedi.py
+│   │   ├── main.py
+│   │   ├── SessaoJedi.py
+│   │   └── TreinadorJedi.py
+│   ├── 7
+│   │   └── all.py
+│   ├── 8
+│   │   └── main.py
+│   ├── 9
+│   │   ├── All.py
+│   │   ├── Exemplos
+│   │   │   ├── assert
+│   │   │   │   ├── all.py
+│   │   │   │   ├── divisao.py
+│   │   │   │   ├── encontrar_maior.py
+│   │   │   │   ├── imc.py
+│   │   │   │   ├── pilha.py
+│   │   │   │   ├── requisicao.py
+│   │   │   │   └── soma.py
+│   │   │   └── excecoes
+│   │   │       ├── all.py
+│   │   │       ├── ex1a.py
+│   │   │       ├── ex1b.py
+│   │   │       ├── ex1c.py
+│   │   │       ├── ex2.py
+│   │   │       ├── ex3.py
+│   │   │       ├── ex4.py
+│   │   │       ├── ex5a.py
+│   │   │       ├── ex5b.py
+│   │   │       ├── ex5c1.py
+│   │   │       ├── ex5c2.py
+│   │   │       ├── ex5d.py
+│   │   │       └── ex5e.py
+│   │   ├── Exercicio.zip
+│   │   └── main.py
+│   └── All
+│       ├── All.py
+│       ├── atts.txt
+│       ├── Classes.py
+│       └── main.py
+└── 5
+    └── All
         ├── All.py
         ├── atts.txt
         ├── Classes.py
         └── main.py
-
 ```
 
 ### 1
@@ -246,4 +303,13 @@ Repositório onde vão estar todos os programas e atividades da disciplina de PO
 - Pasta onde começaram a ser utilizados os conceitos de Interfaces em POO.
 
 ### 4
+#### 1 a 4:
+- Atividades do antigo professor de POO.
 - Pasta onde começaram a ser utilizados os conceitos de Relacionamentos de Classes como: Dependência, Generalização, Associação.
+
+#### 4 a 10
+- Atividades do novo professor de POO.
+- Pasta onde voltamos a rever os conceitos basicos de POO e exemplos de assert e try except.
+
+### 5
+- Pasta onde talvez eu adicione meus projetos.
