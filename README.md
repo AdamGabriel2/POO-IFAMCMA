@@ -178,14 +178,6 @@ Repositório onde vão estar todos os programas e atividades da disciplina de PO
 │   │   ├── Farol.py
 │   │   ├── main.py
 │   │   └── Moto.py
-│   ├── 10
-│   │   ├── all.py
-│   │   ├── ex1.py
-│   │   ├── ex2.py
-│   │   ├── ex3.py
-│   │   ├── ex4.py
-│   │   ├── main1.py
-│   │   └── main2.py
 │   ├── 2
 │   │   ├── ItemPedido.py
 │   │   ├── main.py
@@ -236,61 +228,7 @@ Repositório onde vão estar todos os programas e atividades da disciplina de PO
 │   ├── 4
 │   │   ├── Carro.py
 │   │   └── main.py
-│   ├── 5
-│   │   ├── all.py
-│   │   ├── Astromech.py
-│   │   ├── Conexao.py
-│   │   ├── main.py
-│   │   ├── Mestre.py
-│   │   └── Sensor.py
-│   ├── 6
-│   │   ├── all.py
-│   │   ├── IniciadosJedi.py
-│   │   ├── main.py
-│   │   ├── SessaoJedi.py
-│   │   └── TreinadorJedi.py
-│   ├── 7
-│   │   └── all.py
-│   ├── 8
-│   │   └── main.py
-│   ├── 9
-│   │   ├── All.py
-│   │   ├── Exemplos
-│   │   │   ├── assert
-│   │   │   │   ├── all.py
-│   │   │   │   ├── divisao.py
-│   │   │   │   ├── encontrar_maior.py
-│   │   │   │   ├── imc.py
-│   │   │   │   ├── pilha.py
-│   │   │   │   ├── requisicao.py
-│   │   │   │   └── soma.py
-│   │   │   └── excecoes
-│   │   │       ├── all.py
-│   │   │       ├── ex1a.py
-│   │   │       ├── ex1b.py
-│   │   │       ├── ex1c.py
-│   │   │       ├── ex2.py
-│   │   │       ├── ex3.py
-│   │   │       ├── ex4.py
-│   │   │       ├── ex5a.py
-│   │   │       ├── ex5b.py
-│   │   │       ├── ex5c1.py
-│   │   │       ├── ex5c2.py
-│   │   │       ├── ex5d.py
-│   │   │       └── ex5e.py
-│   │   ├── Exercicio.zip
-│   │   └── main.py
-│   └── All
-│       ├── All.py
-│       ├── atts.txt
-│       ├── Classes.py
-│       └── main.py
-└── 5
-    └── All
-        ├── All.py
-        ├── atts.txt
-        ├── Classes.py
-        └── main.py
+
 ```
 
 ### 1
@@ -303,13 +241,4 @@ Repositório onde vão estar todos os programas e atividades da disciplina de PO
 - Pasta onde começaram a ser utilizados os conceitos de Interfaces em POO.
 
 ### 4
-#### 1 a 4:
-- Atividades do antigo professor de POO.
 - Pasta onde começaram a ser utilizados os conceitos de Relacionamentos de Classes como: Dependência, Generalização, Associação.
-
-#### 4 a 10
-- Atividades do novo professor de POO.
-- Pasta onde voltamos a rever os conceitos basicos de POO e exemplos de assert e try except.
-
-### 5
-- Pasta onde talvez eu adicione meus projetos.
